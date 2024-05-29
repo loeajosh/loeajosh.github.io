@@ -4,18 +4,18 @@ document.addEventListener('DOMContentLoaded', function() {
     const mediaItems = [
         {
             type: 'image',
-            url: 'https://drive.google.com/uc?export=view&id=YOUR_IMAGE_FILE_ID',
-            description: 'An example image'
+            url: 'https://drive.google.com/uc?export=view&id=1SxqoZh3pOL8FHANxQrqiv5Aapiint1rs',
+            description: 'Artist:  Amelia Earthart'
         },
         {
             type: 'video',
-            url: 'https://drive.google.com/uc?export=view&id=YOUR_VIDEO_FILE_ID',
-            description: 'An example video'
+            url: 'https://drive.google.com/uc?export=view&id=1Sy6NCdY5VBwTqZEQ2zTmGCP_tefBr0gd',
+            description: 'This Heart's Creation...a video'
         },
         {
             type: 'text',
-            content: 'This is an example text block.',
-            description: 'An example text'
+            content: 'This is The Honor Heart. It is quite honorable.',
+            description: 'This Heart's Story...'
         }
     ];
 
