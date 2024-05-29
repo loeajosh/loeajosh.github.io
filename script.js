@@ -4,12 +4,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const mediaItems = [
         {
             type: 'image',
-            url: 'https://drive.google.com/uc?export=view&id=1SxqoZh3pOL8FHANxQrqiv5Aapiint1rs',
+            url: 'https://drive.google.com/file/d/1SxqoZh3pOL8FHANxQrqiv5Aapiint1rs/view?usp=sharing',
             description: 'Artist:  Amelia Earthart'
         },
         {
             type: 'video',
-            url: 'https://drive.google.com/uc?export=view&id=1Sy6NCdY5VBwTqZEQ2zTmGCP_tefBr0gd',
+            url: 'https://drive.google.com/file/d/1Sy6NCdY5VBwTqZEQ2zTmGCP_tefBr0gd/view?usp=sharing',
             description: 'This Heart's Creation...a video'
         },
         {
